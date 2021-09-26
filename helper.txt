@@ -1,0 +1,5 @@
+jupyter notebook		    #Run localhost
+
+pip install jupyter notebook 		#jupyterlab Install
+
+pip uninstall jupyter notebook  	#jupyterlab uninstall
